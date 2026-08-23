@@ -30,8 +30,3 @@ I like learning things by actually building stuff.
 [![](https://komarev.com/ghpvc/?username=Erehh-A&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://komarev.com/ghpvc/?username=Erehh-A&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
