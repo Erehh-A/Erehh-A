@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, I'm a B.Tech student figuring out the world of tech one project at a time.
+Hey, I'm Ayush, a B.Tech student figuring out the world of tech one project at a time.
 
 Currently:
 - 🐍 Learning **Python & Machine Learning**
