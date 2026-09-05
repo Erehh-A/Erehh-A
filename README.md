@@ -25,7 +25,6 @@ I like learning things by actually building stuff.
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/erehh_yeager/)
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Erehh-A&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Erehh-A&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Erehh-A&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
