@@ -1,6 +1,6 @@
 ## Welcome to my profile!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Hey, I'm Ayush, a B.Tech student figuring out the world of tech one project at a time.
+Hey, I'm Ayush, a B.Tech student figuring out the world of tech.
 
 Currently:
 - 🐍 Learning **Python & Machine Learning**
@@ -14,17 +14,17 @@ I like learning things by actually building stuff.
 
 
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="35" /> Socials:
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="33" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-79515a317/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lpl573370@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Erehhnn) 
 
-# <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width=40>Tech Stack:
+# <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width=37>Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 ### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="19" /> Coding Profile
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/erehh_yeager/)
 ---
-# <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" /> GitHub Stats:
+# <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="16" /> GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Erehh-A&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Erehh-A&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
